@@ -1,7 +1,7 @@
 # iot-testbed
 A collection of test application to evaluate sensors and other computers. 
 ## Description: 
-This is my latest **Internet of Things** project that contest test or demonstration applications for C/C++ applications. My home automation system contains environment sensors, motion sensors, LED clocks, light switches, emergency sirens, a django web server, interfaces to Adafruit.io and a mosquitto MQTT broker
+This is my latest **Internet of Things** project that contains test or demonstration applications for C/C++ applications. My home automation system contains environment sensors, motion sensors, LED clocks, light switches, emergency sirens, a django web server, interfaces to Adafruit.io and a mosquitto MQTT broker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)
@@ -48,7 +48,7 @@ Each test application has it own unique architecture. Many of the C/C++ applicat
 Clone the repository, followed by installation of the dependencies. The last step is to decide on automation.
 ### Clone the repository 
 ```
-git clone https://github.com/parttimehacker/diyha3-asset.git
+git clone [https://github.com/parttimehacker/diyha3-asset.git](https://github.com/parttimehacker/iot-testbed.git)
 cd diyha3-asset
 ```
 ### Install dependencies
