@@ -5,6 +5,7 @@ This is my latest **Internet of Things** project that contains test or demonstra
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)
+https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
