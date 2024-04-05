@@ -34,6 +34,10 @@ This is my latest **Internet of Things** project that contains test or demonstra
 - A variety of hardware and supporting software libraries
 ## Features
 List the ready features here:
+- Reading and writing analog pins
+- Reading and writing digital pins
+- Controlling LED lights
+- 
 - BME680 
 - Reports on status and diagnostic information for the host raspberry pi server.
 - Code passes pylint with a score of 10.0
